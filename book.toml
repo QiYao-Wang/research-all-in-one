@@ -1,16 +1,16 @@
 [book]
-authors = ["lzzsG"]
+authors = ["Qiyao-Wang"]
 language = "en"
 multilingual = false
 src = "src"
-title = "mdBook-pages-test"
+title = "Research-All-in-One"
 
 
 [output.html]
 site-url = "/mdBook-pages-test/"
-default-theme = "black"
+default-theme = "light"
 preferred-dark-theme = "black"
-git-repository-url = "https://github.com/lzzsG/mdBook-pages-test"
+git-repository-url = "https://github.com/QiYao-Wang/research-all-in-one"
 git-repository-icon = "fa-github"
 
 
