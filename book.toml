@@ -7,7 +7,7 @@ title = "Research-All-in-One"
 
 
 [output.html]
-site-url = "/mdBook-pages-test/"
+site-url = "/research-all-in-on/"
 default-theme = "light"
 preferred-dark-theme = "black"
 git-repository-url = "https://github.com/QiYao-Wang/research-all-in-one"
